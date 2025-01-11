@@ -1,0 +1,201 @@
+{
+  "college": {
+    "name": "RCOEM",
+    "location": "Nagpur, Maharashtra",
+    "department": "Computer Science and Engineering",
+    "semester": "Fall 2024"
+  },
+  "students": [
+    {
+      "id": "S105",
+      "name": "Rajat Parihar",
+      "roll_number": "CS101-005",
+      "marks": {
+        "subjects": [
+          {
+            "subject_name": "Mathematics I",
+            "marks_obtained": 95,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Data Structures",
+            "marks_obtained": 98,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Digital Logic Design",
+            "marks_obtained": 92,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Computer Programming",
+            "marks_obtained": 89,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Engineering Physics",
+            "marks_obtained": 90,
+            "total_marks": 100
+          }
+        ],
+        "total_marks_obtained": 464,
+        "total_marks": 500,
+        "percentage": 92.8
+      }
+    },
+    {
+      "id": "S106",
+      "name": "Varun Singh",
+      "roll_number": "CS101-006",
+      "marks": {
+        "subjects": [
+          {
+            "subject_name": "Mathematics I",
+            "marks_obtained": 85,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Data Structures",
+            "marks_obtained": 90,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Digital Logic Design",
+            "marks_obtained": 87,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Computer Programming",
+            "marks_obtained": 82,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Engineering Physics",
+            "marks_obtained": 84,
+            "total_marks": 100
+          }
+        ],
+        "total_marks_obtained": 428,
+        "total_marks": 500,
+        "percentage": 85.6
+      }
+    },
+    {
+      "id": "S107",
+      "name": "Sujal Hedau",
+      "roll_number": "CS101-007",
+      "marks": {
+        "subjects": [
+          {
+            "subject_name": "Mathematics I",
+            "marks_obtained": 78,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Data Structures",
+            "marks_obtained": 84,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Digital Logic Design",
+            "marks_obtained": 80,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Computer Programming",
+            "marks_obtained": 88,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Engineering Physics",
+            "marks_obtained": 81,
+            "total_marks": 100
+          }
+        ],
+        "total_marks_obtained": 411,
+        "total_marks": 500,
+        "percentage": 82.2
+      }
+    },
+    {
+      "id": "S103",
+      "name": "Amit Patel",
+      "roll_number": "CS101-003",
+      "marks": {
+        "subjects": [
+          {
+            "subject_name": "Mathematics I",
+            "marks_obtained": 92,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Data Structures",
+            "marks_obtained": 94,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Digital Logic Design",
+            "marks_obtained": 89,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Computer Programming",
+            "marks_obtained": 80,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Engineering Physics",
+            "marks_obtained": 86,
+            "total_marks": 100
+          }
+        ],
+        "total_marks_obtained": 441,
+        "total_marks": 500,
+        "percentage": 88.2
+      }
+    },
+    {
+      "id": "S104",
+      "name": "Priya Singh",
+      "roll_number": "CS101-004",
+      "marks": {
+        "subjects": [
+          {
+            "subject_name": "Mathematics I",
+            "marks_obtained": 68,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Data Structures",
+            "marks_obtained": 72,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Digital Logic Design",
+            "marks_obtained": 75,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Computer Programming",
+            "marks_obtained": 85,
+            "total_marks": 100
+          },
+          {
+            "subject_name": "Engineering Physics",
+            "marks_obtained": 70,
+            "total_marks": 100
+          }
+        ],
+        "total_marks_obtained": 370,
+        "total_marks": 500,
+        "percentage": 74.0
+      }
+    }
+  ],
+  "statistics": {
+    "total_students": 5,
+    "average_percentage": 88.2,
+    "highest_percentage": 92.8,
+    "lowest_percentage": 74.0
+  }
+}
